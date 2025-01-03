@@ -8,7 +8,7 @@ Access NexusAI's free premium AI models like FLUX, DALL-E-3, GPT-4o, and more fo
 
 Unleash your creativity without limits! 🌟
 
-[**Sign in with Discord**](https://www.nexusapi.tech) 💬
+[**Sign in with Discord**](https://www.nexusmind.tech) 💬
 
 Signing in allows you to generate images using AI.  
 You'll be joined to NexusAI Discord after login. 🎨
@@ -26,10 +26,10 @@ Our mission is to empower creators, artists, and enthusiasts by providing powerf
 ## Our Services 💻
 
 ### NexusChatGPT 🤖
-Experience advanced AI conversations with NexusChatGPT at [chat.nexusapi.tech](https://chat.nexusapi.tech/). Access premium models like **gpt-4o**, **o1-preview**, and **claude-3-5-sonnet** for free!
+Experience advanced AI conversations with NexusChatGPT at [chat.nexusapi.tech](https://chatgpt.nexusmind.tech/). Access premium models like **gpt-4o**, **o1-preview**, and **claude-3-5-sonnet** for free!
 
 ### NexusImage 🖼️
-Generate stunning images using AI at [image.nexusapi.tech](https://image.nexusapi.tech). Unleash your creativity with no limits!
+Generate stunning images using AI at [image.nexusapi.tech](https://image.nexusmind.tech). Unleash your creativity with no limits!
 
 ---
 
