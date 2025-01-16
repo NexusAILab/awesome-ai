@@ -1,69 +1,87 @@
-# NexusAI - Unlimited AI Image Generation and Chatbots for Free
+# NexusAI 🌠
 
-Access NexusAI's free premium AI models like FLUX, DALL-E-3, GPT-4o, and more for unlimited image generation and chatbot experiences. Join our community today!
+At **NexusAI**, we are dedicated to empowering creators, artists, and enthusiasts by providing free, unlimited access to advanced AI tools for image generation and conversational experiences.
 
-![NexusAI Logo](https://raw.githubusercontent.com/NexusAILab/cdn/refs/heads/main/icon/logo.png)
+Our mission is to make cutting-edge artificial intelligence accessible to everyone, fostering creativity and innovation without boundaries.
 
-## Welcome to NexusAI 🚀
+Join our vibrant community to explore and create with powerful AI technologies in a secure, private, and supportive environment.
 
-Unleash your creativity without limits! 🌟
+### Key Features
+- ✨ Free Access
+- 🎨 Advanced AI Tools
+- 🚀 Unlimited Generation
+- 🛡️ Secure & Private
 
-[**Sign in with Discord**](https://www.nexusmind.tech) 💬
+## Our Apps
 
-Signing in allows you to generate images using AI.  
-You'll be joined to NexusAI Discord after login. 🎨
+### NexusChatGPT 👾
+Experience advanced AI conversations with premium models like **GPT-4o**, **Claude-3**, and more – completely free!
 
----
+#### Features
+- 🤖 GPT-4o Ready
+- ⚡ Fast Response
 
-## About Us 💡
+[Launch NexusChatGPT](https://chatgpt.nexusmind.tech/)
 
-**NexusAI** is your gateway to unlimited image generation and AI-powered chat experiences! We provide access to cutting-edge AI models like **FLUX.1.1 [pro]**, **FLUX.1 [pro]**, **DALL-E-3**, **o1-preview**, **gpt-4o**, and more – all for **FREE**! 🔥
+### NexusImage 🎨
+Create stunning images with premium AI models like **DALL-E 3**, **FLUX.1.1**, and more. Experience the future of image generation today!
 
-Our mission is to empower creators, artists, and enthusiasts by providing powerful AI tools without limits. Join our community and start creating amazing art and engaging with AI chatbots seamlessly.
+#### Features
+- ✨ Pro Models
+- ♾️ Unlimited Use
 
----
+[Launch NexusImage](https://image.nexusmind.tech)
 
-## Our Services 💻
+## Active AI Models
 
-### NexusChatGPT 🤖
-Experience advanced AI conversations with NexusChatGPT at [chat.nexusapi.tech](https://chatgpt.nexusmind.tech/). Access premium models like **gpt-4o**, **o1-preview**, and **claude-3-5-sonnet** for free!
+### Image Generation Models 🌌
+| Model Name | Per Minute | Daily Limit |
+|------------|------------|-------------|
+| dall-e-3 | 2 | 300 |
+| FLUX.1 [dev] | 2 | 300 |
+| FLUX.1 [schnell] | 2 | 300 |
+| kandinsky-3.1 | 2 | 300 |
+| FLUX.1 [pro] | 2 | 300 |
+| stable-diffusion-3 | 2 | 300 |
+| playground-v2.5 | 2 | 300 |
+| sdxl-lightning-4step | 2 | 300 |
+| shapes-flux | 2 | 300 |
+| sd3.5 | 2 | 300 |
+| grok-2-aurora | 2 | 50 |
+| imagen-3.0-fast | 2 | 50 |
 
-### NexusImage 🖼️
-Generate stunning images using AI at [image.nexusapi.tech](https://image.nexusmind.tech). Unleash your creativity with no limits!
+### Chatbot Models 👾
+| Model Name | Per Minute | Daily Limit |
+|------------|------------|-------------|
+| gpt-4o | 10 | 300 |
+| gpt-4o-mini | 15 | 300 |
+| gpt-3.5-turbo | 5 | 300 |
+| llama-3.2-90B | 20 | 300 |
+| llama-3.3-70b | 20 | 300 |
+| llama-3.1-405B | 20 | 300 |
+| claude-3.5-sonnet | 3 | 30 |
+| o1-preview | 3 | 30 |
+| o1-mini | 3 | 30 |
+| gemini-2.0-flash-exp | 10 | 100 |
+| gemini-exp-1206 | 10 | 100 |
+| qwq-32b-preview | 20 | 300 |
+| deepseek-chat | 20 | 300 |
+| mythomax-l2-13b | 20 | 300 |
 
----
+## Join Our Community 🌟
 
-## Active AI Models 🛠️
+### Why Join Us? 🚀
 
-### Image Generation Models:
-- FLUX.1 [pro]
-- FLUX.1.1 [pro]
-- DALL-E-3
-- FLUX.1 [dev]
-- FLUX.1 [schnell]
-- KANDINSKY-3.1
-- stable-diffusion-3
-- stable-diffusion-3.5 large
-- playground-v2.5
+- ⚡ **Premium AI Models**
+  - Access FLUX, DALL-E-3, GPT-4o for free
 
-### Chatbot Models:
-- gpt-4o
-- gpt-4o-mini
-- o1-preview
-- o1-mini
-- claude-3-5-sonnet
-- gpt-3.5-turbo
-- llama-3.1-405B
-- llama-3.2-90B
+- 🎨 **Unlimited Generations**
+  - Create without limits, 24/7
 
----
+- 👥 **Active Community**
+  - Join thousands of creators
 
-## Join Our Community 💬
+- 🎯 **24/7 Support**
+  - Get help whenever you need
 
-Connect with fellow creators on Discord!
-
-[**Join Discord Server**](https://discord.gg/sk8eddGwmP) 🚀
-
----
-
-&copy; 2023 NexusAI. All rights reserved.
+[Join Our Discord Server](https://discord.gg/sk8eddGwmP) 
